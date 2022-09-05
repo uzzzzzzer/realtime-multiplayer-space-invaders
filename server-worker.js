@@ -9,7 +9,7 @@ const envConfig = require("dotenv").config();
 const Ably = require("ably");
 const p2 = require("p2");
 
-const ABLY_API_KEY = process.env.ABLY_API_KEY;
+const ABLY_API_KEY = "idLtDg.toVVjA:LLPMZ0JYu0YvbO10M47lf7LFNMTwKsVcz_eBsw_Nr1k";
 
 const CANVAS_HEIGHT = 700;
 const CANVAS_WIDTH = 1400;
